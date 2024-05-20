@@ -1,0 +1,112 @@
+{
+  "name": "Portfolio KarimSoltane",
+  "headerTaglineOne": "Hello 👋",
+  "headerTaglineTwo": "I'm Karim Soltane",
+  "headerTaglineThree": "Full-Stack Devloper",
+  "showCursor": true,
+  "showBlog": false,
+  "darkMode": true,
+  "showResume": true,
+  "socials": [
+    { "id": "1", "title": "Github", "link": "https://github.com/SoltaneKarim" },
+    {
+      "id": "2",
+      "title": "LinkedIn",
+      "link": "https://www.linkedin.com/in/karim-soltane-416085290/"
+    },
+    {
+      "id": "3",
+      "title": "Facebook",
+      "link": "https://www.facebook.com/lkormi"
+    },
+    { "id": "5", "title": "Email", "link": "mailto:karimsoltane92@gmail.com" }
+  ],
+  "projects": [
+    {
+      "id": "1",
+      "title": "Sultan-Radio",
+      "description": "Radio Station",
+      "imageSrc": "https://res.cloudinary.com/dzmvieej8/image/upload/v1715996249/logo2-removebg-preview_jpbkvj.png",
+      "url": "https://sultanradio.netlify.app/"
+    },
+    {
+      "id": "2",
+      "title": "Farm2See",
+      "description": "Mobile application designed to help farmers manage their inventory of medications, equipment, and finances. It tracks dairy cow health, providing alerts for potential illnesses, and supports crop management by offering detailed plant information through a simple scan.",
+      "imageSrc": "https://res.cloudinary.com/dzmvieej8/image/upload/v1715998362/Capture_d_%C3%A9cran_2024-05-18_030654_afwonu.png",
+      "url": "https://sultanradio.netlify.app/"
+    }
+  ],
+  "services": [
+    {
+      "id": "1",
+      "title": "Custom Web Application Development",
+      "description": "I specialize in developing custom web applications tailored to your unique business needs. Leveraging modern frameworks and technologies, I build solutions that are scalable, secure, and optimized for performance. Whether you need a complex enterprise solution or a simple web app, I deliver high-quality, user-centric applications."
+    },
+    {
+      "id": "3",
+      "title": "Responsive Frontend Development",
+      "description": " I create visually stunning and highly interactive user interfaces that provide an exceptional user experience across all devices. Using cutting-edge technologies like React, Next.js,  and React Native. I ensure your frontend is not only beautiful but also fast and responsive."
+    },
+    {
+      "id": "ef5bec70-c2c4-4c80-be03-a52dae2387bb",
+      "title": "Robust Backend Development",
+      "description": " I design and develop robust backend systems that power your applications. With expertise in Node.js, I build scalable APIs, manage databases efficiently, and ensure your backend architecture is secure and reliable, supporting your business operations seamlessly."
+    },
+    {
+      "id": "21923d4a-ee73-4eaf-90fc-1e45119758c0",
+      "title": "Comprehensive Full-Stack Solutions",
+      "description": "I offer end-to-end full-stack development services, managing every aspect of the project from ideation to deployment. With proficiency in both frontend and backend technologies, I provide integrated solutions that include database management, server configuration, cloud integration, and continuous deployment, ensuring a smooth and efficient development process."
+    }
+  ],
+  "aboutpara": "A website devoloper, with a strong focus in UI/UX design. I love to get new experiences and always learn from my surroundings. I've done more than 20 projects. You can check it through work section on this website. I'm looking forward to any opportunities and challenges.",
+  "resume": {
+    "tagline": "I'm a fullstack javascript developer 👋",
+    "description": "A highly skilled Full-stack JavaScript Developer with a strong command of both front-end and back-end technologies, proficiently bridging the gap between user interface design and server-side logic to create seamless and responsive web applications.",
+    "experiences": [
+      {
+        "id": "1",
+        "dates": "2020 - 2022",
+        "type": "Full Time",
+        "position": "Founder & Manager of BenSoltane fast food",
+        "bullets": "I had the honor of gaining experience in this field throughout the sector."
+      },
+      {
+        "id": "d495c23b-4f65-479a-9b8a-cfbc1c089725",
+        "dates": "2014 - 2015",
+        "type": "Full Time",
+        "position": "Shipping Agent at TransRapide",
+        "bullets": "Managing cargo logistics, Navigating customs procedures, Ensuring the seamless movement of international freight"
+      },
+      {
+        "id": "0ff2e911-e902-47e6-b705-add00d23e0e2",
+        "dates": "2012 - 2014",
+        "type": "Full Time",
+        "position": "Member at ACT (Association des arts pour le Cinéma et le Theatre du Kef)",
+        "bullets": "Serving as a logistics assistant at the Human Rights Festival, Assistant on the set for the shooting of two short films, Participating in various other activities."
+      },
+      {
+        "id": "1b919aa1-525f-43f9-b011-60dae556a523",
+        "dates": "2010 - 2012",
+        "type": "Full Time",
+        "position": "Store Manager at Becs Fins",
+        "bullets": "Achieved objectives such as increasing store revenue through the implementation of promotional events, Knowledge in placing orders with suppliers, Managing inventory, Organizing stocktaking both in the storeroom and on the sales floor"
+      }
+    ],
+    "education": {
+      "universityName": "RebootKamp (RBK)",
+      "universityDate": "April 2023 - October 2023",
+      "universityPara": "Full Stack JavaScript Developer"
+    },
+    "languages": ["Javascript", "HTML5", "CSS", "Tailwindcss", "Bootstrap"],
+    "frameworks": ["React", "React Native", "NodeJs", "NextJs"],
+    "others": [
+      "Figma",
+      "MySQL",
+      "MongoDB",
+      "JWT",
+      "Firebase",
+      "Git (Source Control)"
+    ]
+  }
+}
